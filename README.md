@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaskaran Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskaransingh4704&label=Profile%20views&color=0e75b6&style=flat" alt="jaskaransingh4704" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frichestsoft.com%2Fblog%2Fuseful-tips-to-make-web-development-projects-succeed%2Fweb-development-banner%2F&psig=AOvVaw3Kb6AthV4YQCqVyTpz-pqS&ust=1615716247933000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDbo5yCre8CFQAAAAAdAAAAABAD" alt="jaskaransingh4704" /> </p>
 
 - 🌱 I’m currently learning **React, React-Native**
 
