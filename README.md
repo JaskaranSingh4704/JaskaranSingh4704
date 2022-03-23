@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jaskaran Singh</h1>
 <h3 align="center">A passionate developer from India 😎</h3>
 
+<a href="https://app.daily.dev/jaskaransingh47"><img src="https://api.daily.dev/devcards/06e5b4e3f9a84a9cb73b6e0f730384e8.png?r=ihi" width="200" alt="Jaskaran Singh's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskaransingh4704&label=Profile%20views&color=0e75b6&style=flat" alt="jaskaransingh4704" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jaskaran4704" target="blank"><img src="https://img.shields.io/twitter/follow/jaskaran4704?logo=twitter&style=for-the-badge" alt="jaskaran4704" /></a> </p>
