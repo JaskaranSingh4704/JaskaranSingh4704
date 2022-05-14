@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaskaran Singh</h1>
 <h3 align="center">A passionate developer from India 😎</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=4000&multiline=true&width=800&lines=I+am+a+web+and+mobile+application+developer+with+an+experience+of+over+2+years.;I+have+hands+on+experience+working+with+frameworks+and+technologies+like+Laravel+and+React+Native.)](https://git.io/typing-svg)
 <a href="https://app.daily.dev/jaskaransingh47"><img src="https://api.daily.dev/devcards/06e5b4e3f9a84a9cb73b6e0f730384e8.png?r=ihi" width="200" alt="Jaskaran Singh's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskaransingh4704&label=Profile%20views&color=0e75b6&style=flat" alt="jaskaransingh4704" /> </p>
