@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jaskaran4704" target="blank"><img src="https://img.shields.io/twitter/follow/jaskaran4704?logo=twitter&style=for-the-badge" alt="jaskaran4704" /></a> </p>
 
-- 🔭 I’m currently working on **Daily Profits**
+- 🔭 I’m currently working on **Dream Project**
 
-- 🌱 I’m currently learning **Redux | Node js**
+- 🌱 I’m currently learning **NextJs | Docker**
 
 - 💬 Ask me about **PHP | Laravel | React | React Native**
 
